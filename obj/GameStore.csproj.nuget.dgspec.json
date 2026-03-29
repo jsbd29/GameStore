@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sebastiaodutra/Desktop/DotNet/GameStore/GameStore.csproj": {}
+    "/Users/sebastiaodutra/Desktop/DotNet/GameStore/GameStore.Api/GameStore.csproj": {}
   },
   "projects": {
-    "/Users/sebastiaodutra/Desktop/DotNet/GameStore/GameStore.csproj": {
+    "/Users/sebastiaodutra/Desktop/DotNet/GameStore/GameStore.Api/GameStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sebastiaodutra/Desktop/DotNet/GameStore/GameStore.csproj",
+        "projectUniqueName": "/Users/sebastiaodutra/Desktop/DotNet/GameStore/GameStore.Api/GameStore.csproj",
         "projectName": "GameStore",
-        "projectPath": "/Users/sebastiaodutra/Desktop/DotNet/GameStore/GameStore.csproj",
+        "projectPath": "/Users/sebastiaodutra/Desktop/DotNet/GameStore/GameStore.Api/GameStore.csproj",
         "packagesPath": "/Users/sebastiaodutra/.nuget/packages/",
-        "outputPath": "/Users/sebastiaodutra/Desktop/DotNet/GameStore/obj/",
+        "outputPath": "/Users/sebastiaodutra/Desktop/DotNet/GameStore/GameStore.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sebastiaodutra/.nuget/NuGet/NuGet.Config"
@@ -20,6 +20,7 @@
           "net10.0"
         ],
         "sources": {
+          "/opt/homebrew/Cellar/dotnet/10.0.105/libexec/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/10.0.105/libexec/sdk/10.0.105/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

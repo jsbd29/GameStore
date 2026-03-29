@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7sZJD+t/Yuc=",
+  "dgSpecHash": "aCnJ0UZuK7o=",
   "success": true,
-  "projectFilePath": "/Users/sebastiaodutra/Desktop/DotNet/GameStore/GameStore.csproj",
+  "projectFilePath": "/Users/sebastiaodutra/Desktop/DotNet/GameStore/GameStore.Api/GameStore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
